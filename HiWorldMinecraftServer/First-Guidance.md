@@ -34,7 +34,9 @@
 
 ### 1.随机传送
 打开主菜单-传送菜单-随机传送
+
 ![](https://blazeb2.hitech0926.com/img/d59535ee-942d-4df9-9287-aa0c1f95202f.png)
+
 ![](https://blazeb2.hitech0926.com/img/9796a564-748e-4739-b4c3-91545a5850ed.png)
 然后你会发现这里有许多的世界可供传送
 ![](https://blazeb2.hitech0926.com/img/64457f7d-6c5a-49cf-88dd-11ae10fa4f81.png)
