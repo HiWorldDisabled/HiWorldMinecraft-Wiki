@@ -1,2 +1,2 @@
 # HiWorldMinecraft-Wiki
-Hi世界Minecraft教程
+Hi世界Minecraft Wiki
